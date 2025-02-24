@@ -1,0 +1,107 @@
+[
+  {
+    "source_joint": "Hips",
+    "target_control": "RootX_M",
+    "move_able": true
+  },
+  {
+    "source_joint": "Spine",
+    "target_control": "FKSpine1_M",
+    "move_able": false
+  },  
+  {
+    "source_joint": "Spine1",
+    "target_control": "FKSpine2_M",
+    "move_able": false
+  },  
+  {
+    "source_joint": "Spine2",
+    "target_control": "FKSpine3_M",
+    "move_able": false
+  },
+  {
+    "source_joint": "Spine3",
+    "target_control": "FKChest_M",
+    "move_able": false
+  },
+  {
+    "source_joint": "LeftArm",
+    "target_control": "FKShoulder_L",
+    "move_able": false
+  },
+  {
+    "source_joint": "LeftForeArm",
+    "target_control": "FKElbow_L",
+    "move_able": false
+  },
+  {
+    "source_joint": "LeftHand",
+    "target_control": "FKWrist_L",
+    "move_able": false
+  },
+  {
+    "source_joint": "RightArm",
+    "target_control": "FKShoulder_R",
+    "move_able": false
+  },
+  {
+    "source_joint": "RightForeArm",
+    "target_control": "FKElbow_R",
+    "move_able": false
+  },
+  {
+    "source_joint": "RightHand",
+    "target_control": "FKWrist_R",
+    "move_able": false
+  },
+  {
+    "source_joint": "Head",
+    "target_control": "FKHead_M",
+    "move_able": false
+  },
+  {
+    "source_joint": "Neck",
+    "target_control": "FKNeck_M",
+    "move_able": false
+  },
+  {
+    "source_joint": "LeftUpLeg",
+    "target_control": "FKHip_L",
+    "move_able": false
+  },
+  {
+    "source_joint": "LeftLeg",
+    "target_control": "FKKnee_L",
+    "move_able": false
+  },
+  {
+    "source_joint": "LeftFoot",
+    "target_control": "FKAnkle_L",
+    "move_able": false
+  },
+  {
+    "source_joint": "LeftToeBase",
+    "target_control": "FKToes_L",
+    "move_able": false
+  },
+  {
+    "source_joint": "RightUpLeg",
+    "target_control": "FKHip_R",
+    "move_able": false
+  },
+  {
+    "source_joint": "RightLeg",
+    "target_control": "FKKnee_R",
+    "move_able": false
+  },
+  {
+    "source_joint": "RightFoot",
+    "target_control": "FKAnkle_R",
+    "move_able": false
+  },
+  {
+    "source_joint": "RightToeBase",
+    "target_control": "FKToes_R",
+    "move_able": false
+  }
+]
